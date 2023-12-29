@@ -1,0 +1,13 @@
+front page:
+ 	one line thing
+	log-in/sign-up
+	help/call for support (footer)
+	background images
+after log-in:
+	survey (once a month)
+	
+	
+survey
+
+#ddf1d6
+#e1f1d7
