@@ -1,17 +1,14 @@
-<html>
-<head>
-<link rel="stylesheet" href="rewards.css">
-<title>Rewards</title>
-</head>
-<body>
-<h1>R</h1>
-<h1>E</h1>
-<h1>W</h1>
-<h1>A</h1>
-<h1>R</h1>
-<h1>D</h1>
-<h1>S</h1>
+h1{
+text-shadow: 2px 2px green;
+	text-align:center;
+	font-family:"Papyrus",Fantasy;
+	font-size:60px;
+}
 
-
-</body>
-</html>
+body{
+	background-color:#84bc27;
+	background-image: url("BG8.jpg");
+	background-position:center;
+	float:left;
+	background-repeat: no-repeat;
+}
