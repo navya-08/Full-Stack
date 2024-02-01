@@ -1,12 +1,16 @@
-<html>
-<head>
-<link rel="stylesheet" href="leaderboard.css">
-<title>Leaderboard</title>
-</head>
-<h1>Leaderboard</h1>
-<body>
-<div>
-<a href="user.html"><button id="button2">Back</button></a>
-</div>
-</body>
-</html>
+h1{
+	text-align:center;
+	font-family:"Papyrus",Fantasy;
+	font-size:30px;
+	color:white;
+}
+
+body{
+	background-color:#0d2901;
+	background-image: url("BG7.jpg");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position:right;
+	float:left;
+}
+
