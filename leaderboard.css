@@ -1,14 +1,10 @@
-h1{
-text-shadow: 2px 2px green;
-	text-align:center;
-	font-family:"Papyrus",Fantasy;
-	font-size:60px;
-}
+<html>
+<head>
+<link rel="stylesheet" href="remarks.css">
+<title>Remarks</title>
+</head>
+<body>
+<h1>Remarks</h1>
 
-body{
-	background-color:#84bc27;
-	background-image: url("BG8.jpg");
-	background-position:center;
-	float:left;
-	background-repeat: no-repeat;
-}
+</body>
+</html>
